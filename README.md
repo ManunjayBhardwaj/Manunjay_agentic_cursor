@@ -112,7 +112,8 @@ All responses are formatted in strict JSON:
 ## 📁 Sample Output
 
 Linear Regression Model created and deployed on streamlit by my agentic cursor
-<img width="940" alt="Screenshot 2025-06-23 at 3 20 44 PM" src="https://github.com/user-attachments/assets/484e245e-3c22-459e-8c7a-b17792547d41" />
+<img width="1256" alt="Screenshot 2025-06-26 at 6 08 03 PM" src="https://github.com/user-attachments/assets/d760cf92-5266-4d77-837c-324c092bab05" />
+
 
 Prompt Given: Create a Linear Regression project with data.csv and a streamlit app.py for visualising it 
 
