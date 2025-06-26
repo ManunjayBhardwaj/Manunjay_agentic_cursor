@@ -109,16 +109,18 @@ All responses are formatted in strict JSON:
 
 ---
 
-## 📁 Folder Structure
+## 📁 Sample Output
 
-```
-agentic-cursor/
-├── main.py
-├── tools.py
-├── README.md
-├── .env
-└── requirements.txt
-```
+Linear Regression Model created and deployed on streamlit by my agentic cursor
+<img width="940" alt="Screenshot 2025-06-23 at 3 20 44 PM" src="https://github.com/user-attachments/assets/484e245e-3c22-459e-8c7a-b17792547d41" />
+
+Prompt Given: Create a Linear Regression project with data.csv and a streamlit app.py for visualising it 
+
+Folder structure created:
+
+<img width="332" alt="Screenshot 2025-06-26 at 6 09 55 PM" src="https://github.com/user-attachments/assets/e18540c9-8892-49b0-ab26-3d35b7de3f77" />
+
+
 
 ---
 
